@@ -1,0 +1,17 @@
+{
+    "hospitals": [
+      {
+        "id": "1",
+        "name": "dr.nairs hospital",
+        "patientCount": 100,
+        "location": "asramam"
+      },
+      {
+        "id": "2",
+        "name": "medicity",
+        "patientCount": 50,
+        "location": "kottiyam"
+      }
+    ]
+  }
+  
